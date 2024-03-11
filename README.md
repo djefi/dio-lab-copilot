@@ -69,3 +69,29 @@ Você pode fazer deploy, gerenciar e explorar modelos no Azure OpenAI Service us
 
 Ao final do processo fazer a limpeza do grupo de recursos.
 
+## Explorando filtros de conteúdo no Azure OpenAI
+
+### Pré-requisitos
+
+* Fazer a assinatura free no portal Azure acessando https://azure.microsoft.com/free
+* Requisitar acesso passando dados da empresa cliente em https://aka.ms/oaiapply
+
+### Provisionar um recurso do Azure OpenAI
+
+* Entrar no portal Azure.
+* Criar um recurso Azure OpenAI, adicionando a um resource group, região East US, Pricing Standard S0.
+* Executar o deploy
+
+### Fazer deploy de um modelo
+
+* Executar os passos do exercício se você tiver uma conta
+
+### Gerar a saída da linguagem natural
+
+* Executar os passos do exercício se você tiver uma conta
+
+### Explorar os filtros de conteúdo
+
+* Executar os passos do exercício se você tiver uma conta
+
+Ao final do processo fazer a limpeza do grupo de recursos.
